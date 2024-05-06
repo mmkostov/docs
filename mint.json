@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Artifimo Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/artifimo.png",
+    "light": "/logo/artifimo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -35,7 +35,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.artifimo.com"
     },
     {
       "name": "Community",
@@ -45,7 +45,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://blog.artifimo.com"
     }
   ],
   "navigation": [
@@ -84,8 +84,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/artifimo",
+    "github": "https://github.com/artifimo",
+    "linkedin": "https://www.linkedin.com/company/artifimo"
   }
 }
