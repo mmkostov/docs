@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "App",
-    "url": "https://app.artifimo.com"
+    "url": "/dashboard"
   },
   "tabs": [
     {
@@ -33,19 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Pricing",
       "icon": "book-open-cover",
-      "url": "https://docs.artifimo.com"
+      "url": "/pricing"
+    },
+     {
+      "name": "Contact",
+      "icon": "book-open-cover",
+      "url": "/contact"
     },
     {
-      "name": "Community",
+      "name": "Sign up",
       "icon": "discord",
-      "url": "https://artifimo.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://blog.artifimo.com"
+      "url": "/sign-up"
     }
   ],
   "navigation": [
@@ -53,33 +53,27 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "getting-started"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "how-it-works",
+        "features"
       ]
     },
     {
       "group": "API Documentation",
       "pages": [
-        "api-reference/introduction"
+        "api-reference"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Support",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+          "troubleshooting",
+          "faq"
       ]
     }
   ],
